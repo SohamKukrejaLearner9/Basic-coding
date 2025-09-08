@@ -33,7 +33,7 @@
     </p>
     <h2> Contact </h2>
     <p>
-        You can reach me at: <a href="sohamkukreja2008@gmail.com> <strong>sohamkukreja2008@gmail.com</strong>  </a>
+        You can reach me at: <a href="sohamkukreja2008@gmail.com"> <strong>sohamkukreja2008@gmail.com</strong>  </a>
     </p>
 </body>
 </html>
